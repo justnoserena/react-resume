@@ -1,4 +1,4 @@
-# REGEX-TUTORIAL
+#React Resume
   ## Description
   ---
   AS AN employer looking for candidates with experience building single-page applications
